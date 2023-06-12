@@ -1,1 +1,3 @@
-console.log(nešto);
+console.log("nešto");
+
+console.log("još nešto inspirativno");
